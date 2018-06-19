@@ -1,4 +1,4 @@
-# Georgia Residency
+# 🇬🇪 Georgia Residency
 
 * Territorial taxation
 * Minimum Stay: 6 months, but tourism outside of Georgia counts to those days. [PSH](http://psh.gov.ge/) said no minimum stay.
