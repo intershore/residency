@@ -9,5 +9,5 @@ date: 2018-06-19
 
 # Countries
 
-* [Georgia](../georgia) 🇬🇪
-* [Cyprus](../cyprus) 🇨🇾
+* 🇬🇪 [Georgia](../georgia)
+* 🇨🇾 [Cyprus](../cyprus)
