@@ -8,3 +8,8 @@ date: 2018-06-19
 # Statistics
 
 * [Numbeo](https://www.numbeo.com/cost-of-living/) - compare cost of living, property prices, crime, health care, traffic, quality of life, travel.
+
+
+# Citizenship
+
+*  [Birthright Citizenship (Jus soli)](https://en.wikipedia.org/wiki/Jus_soli)
