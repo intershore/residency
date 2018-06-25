@@ -1,4 +1,4 @@
-# 🇨🇾 Cyprus Residency
+# 🇨🇾 Cyprus residency
 
 * [0-35% taxation](https://en.wikipedia.org/wiki/Taxation_in_Cyprus), but dividends are tax free! Use offshore companies!
 * Addtional costs: social security, may be avoided if High Net Worth Individual.
