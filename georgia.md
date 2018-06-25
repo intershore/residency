@@ -7,3 +7,5 @@
 Two options:
 * Labour Residence Permit - create a Georgian company
 * Buy real estate for a minimum value of $35,000
+
+* [Georgia residency](https://tax-free.today/blog/georgia-residency/)
