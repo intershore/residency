@@ -13,4 +13,4 @@
 
 ## Tax
 
-* [Tax Department Cyprus](http://www.mof.gov.cy/mof/taxdep.nsf/index_en/index_en?OpenDocument)
+* [Tax Department Cyprus](http://www.mof.gov.cy/mof/taxdep.nsf/index_en/index_en?OpenDocument), [Contacts](http://www.mof.gov.cy/mof/taxdep.nsf/page27_en/page27_en?OpenDocument)
